@@ -50,7 +50,7 @@ body{
     width: 30%;
     color: var(--texto);
     padding: 10px;
-    background: #343A40;
+    background: linear-gradient(to bottom right, #928dab, #1f1c2c);
     border-radius: 10px;
 }
 
